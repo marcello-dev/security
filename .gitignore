@@ -1,2 +1,5 @@
 .cache/**
 admin/**
+
+# Pycharm
+.idea
